@@ -1,0 +1,21 @@
+.background {
+  display: block;
+  background-color: #1E9FFF;
+}
+.inputArea {
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 100px;
+  max-width: 350px;
+  padding: 0px 0px 10px 10px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 2px 1px rgba(0, 0, 0, .6);
+}
+
+.textArea {
+  color: #000080;
+}
+
+#alert {
+  color: #FFFF00;
+}
